@@ -73,4 +73,5 @@ __강조텍스트__
 일반텍스트
 
 
-
+이미지
+![](https://github.com/Charlene-Yang/eHRGit0101/blob/master/eHRGit0101/src/%EC%BA%A1%EC%B2%98.PNG "귀여운 호랭이")
