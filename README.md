@@ -44,5 +44,21 @@
 
 ## 코드블록
 ``` 프로그래밍 언어 이름
+코드내용
+```
 
-```코드내용
+```python
+def func():
+print "HR Kim"
+pring "Spring"
+```
+
+```javascript
+var data = "HR Spring";
+data.song = "너에게로 초대";
+```
+
+가로선
+---
+***
+``````
