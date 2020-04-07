@@ -6,6 +6,8 @@ public class HelloWorld {
 		System.out.println("Hello, Gitttttt.");
 		System.out.println("Hellooo, Git.");
 		System.out.println("hahaaaaaaaaaaaa");
+		System.out.println("Yang-- Ãæµ¹ test2");
+		
 
 	}
 
